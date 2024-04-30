@@ -1,1 +1,2 @@
 # UBDC-CCTV-data
+This repository contains some examples of Python code written to make use of data created by the Urban Big Data Centre (UBDC - https://www.ubdc.ac.uk) at University of Glasgow. UBDC uses object detection models on images from Glasgow City Council's CCTV system, producing hourly counts of the number of pedestrians, cyclists and vehicles for different locations across the city. The code shows how data can be downloaded via an API (https://glasgow-cctv.ubdc.ac.uk/) and processed to produce a range of urban indicators.
